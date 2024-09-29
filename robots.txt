@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://peryei.github.io/QTI/sitemap.QTI.gz
